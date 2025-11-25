@@ -1,0 +1,1 @@
+ALTER TABLE "akti" ALTER COLUMN "user_id" SET NOT NULL;
